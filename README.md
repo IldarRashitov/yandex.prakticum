@@ -1,3 +1,6 @@
+![GitHub Logo](http://www.onstage.goodmantheatre.org/wp-content/uploads/2015/10/Las_Meninas_featuredimage.jpg)
+Format: ![Alt Text](url)
+
 # Рашитов И.Р. 
 # Яндекс.Практикум
 
