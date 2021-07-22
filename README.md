@@ -3,8 +3,8 @@
 
 ![GitHub Logo](http://www.onstage.goodmantheatre.org/wp-content/uploads/2015/10/Las_Meninas_featuredimage.jpg)
 
-<center><h1>Проекты, выполненные в рамках обучения на курсе Аналитика данных на Яндекс.Практикуме</h1></center> 
-<center><h1>[praktikum.yandex](https://praktikum.yandex.ru/profile/data-analyst/)</h1></center>
+<center><h3>Проекты, выполненные в рамках обучения на курсе Аналитика данных на Яндекс.Практикуме</h3></center> 
+<center><h3>[praktikum.yandex](https://praktikum.yandex.ru/profile/data-analyst/)</h3></center>
 
 | Проект | Навыки  | Библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
